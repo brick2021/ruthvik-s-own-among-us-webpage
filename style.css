@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+img {
+    height: 600px;
+    width: 1000px;
+}
+
+#trailbt {
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+    color: aqua;
+    background-color: black;
+}
+#aucolor{
+   height: 650px;
+   width: 1300px;
+}
+#skd{
+    height: 350px;
+    width: 700px;
+}
+#pol{
+    height: 450px;
+    width: 700px;
+}
+#mhq{
+    height: 400px;
+    width: 700px;
+}
+#arsp{
+    height: 400px;
+    width: 700px;
+}
+#trailbt2 {
+    height: 80px;
+    width: 70px;
+    font-size: 20px;
+    color: aqua;
+    background-color: black;
+}
+#ddbt {
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    color: aqua;
+    background-color: black;
+}
